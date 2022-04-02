@@ -1,7 +1,13 @@
 [![Discord blog post image](img/611be3459c47a184461e7358_1_GjDtiXmt6O9LQzqFhxfzOQ.png)](https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/611be3459c47a184461e7358_1_GjDtiXmt6O9LQzqFhxfzOQ.png)
 
 <!-- Intro Section -->
-<h1 align="center"> Hello World, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Mireya Elisse </h1>
+<h1 align="center"> Hello World, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm</h1>
+<p align="center">
+    <a href="https://github.com/rayanthoney" target="_blank" >
+    <img height="35px" src="https://img.shields.io/badge/-M%20I%20R%20E%20Y%20A-fac90c?style=plastic&for-the-badge&labelColor=1a1f1b&logo=Apache&logoColor=b39700  " alt="">&nbsp;&nbsp;
+    <img height="35px"  src="https://img.shields.io/badge/-E%20L%20I%20S%20S%20E-6cb7a0?style=plastic&for-the-badge&labelColor=1a1f1b&logo=ApacheKylin&logoColor=b39700  " alt="">
+    </a>
+</p>
 
 <!-- About Me Section -->
 <h2> 🐾 About Me 😼 </h2>
