@@ -3,9 +3,9 @@
 <!-- Intro Section -->
 <h1 align="center"> Hello World, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm</h1>
 <p align="center">
-    <a href="https://github.com/rayanthoney" target="_blank" >
-    <img height="35px" src="https://img.shields.io/badge/-M%20I%20R%20E%20Y%20A-fac90c?style=plastic&for-the-badge&labelColor=1a1f1b&logo=Apache&logoColor=b39700  " alt="">&nbsp;&nbsp;
-    <img height="35px"  src="https://img.shields.io/badge/-E%20L%20I%20S%20S%20E-6cb7a0?style=plastic&for-the-badge&labelColor=1a1f1b&logo=ApacheKylin&logoColor=b39700  " alt="">
+    <a href="https://github.com/rayanthoney" target="_self" >
+    <img height="35px" src="https://img.shields.io/badge/-M%20I%20R%20E%20Y%20A-fac90c?style=plastic&for-the-badge&labelColor=1a1f1b&logo=Apache&logoColor=b39700  " alt="Mireya">&nbsp;&nbsp;
+    <img height="35px" src="https://img.shields.io/badge/-E%20L%20I%20S%20S%20E-6cb7a0?style=plastic&for-the-badge&labelColor=1a1f1b&logo=ApacheKylin&logoColor=b39700  " alt="Elisse">&nbsp;&nbsp;
     </a>
 </p>
 
