@@ -1,7 +1,11 @@
 [![Discord blog post image](img/611be3459c47a184461e7358_1_GjDtiXmt6O9LQzqFhxfzOQ.png)](https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/611be3459c47a184461e7358_1_GjDtiXmt6O9LQzqFhxfzOQ.png)
 
 <!-- Intro Section -->
-<h1 align="center"> Hello World, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm</h1>
+<h1 align="center"> Hello World <img src="img/wave.gif" width="40px" height="40px"> I'm </h1>
+
+<br>
+<br>
+
 <p align="center">
     <a href="https://github.com/MireyaElisse" target="_self" >
     <img height="35px" src="https://img.shields.io/badge/-M%20I%20R%20E%20Y%20A-fac90c?style=plastic&for-the-badge&labelColor=1a1f1b&logo=Apache&logoColor=b39700  " alt="Mireya">&nbsp;&nbsp;
